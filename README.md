@@ -28,7 +28,7 @@ He points out pretty clearly the key aspects of building and maintaining an orga
   * Ask for help
   * Share knowledge
   * Learning > Blame
-  * Home for evening
+  * Home for the evening
   * No toxic people
   * Integrity
 * **Led by technology**
@@ -36,6 +36,7 @@ He points out pretty clearly the key aspects of building and maintaining an orga
   * Value technical skill (to same degree as other skills like management etc.)
   * Continuous learning
   * Engage with technology community
+  * No golf-course purchases
 * **Focus on getting excellent in your strategic software (competitive advantage)**, not utility (payroll, HR)
   * Technical excellence is important in general, but you must prioritize because your resources are limited
 
