@@ -7,12 +7,44 @@ A great entry point is the follwing 30mins talk by Martin Fowler:
 
 https://www.youtube.com/watch?v=Avs70dZ3Vlk
 
-He points out pretty clearly the key aspects of building and maintaining an organization that aims for technical excellence in the long run.
-But there's much more:
+He points out pretty clearly the key aspects of building and maintaining an organization that aims for technical excellence in the long run:
+
+## [What does tech excellence look like?](https://www.youtube.com/watch?v=Avs70dZ3Vlk) by Martin Fowler
+* Improve IT performance
+  * Reduce cycle time (i.e. frequent and fast deployments)
+  * Focus on reducing mean time to repair (MTTR) instead of mean time between failure (MTBF)
+* Do continuous delivery
+  * Version control
+  * Continuous integration
+  * Test automation
+  * Deployment automation
+* Carefully structure your teams
+  * You cannot avoid silos, humans will always form silos
+    * However, you can control the borders of these silos, so they support your business
+  * A team must be small, business-oriented, and autonomous
+  * Teams should be as long-term and stable as possible
+* Establish trustful environment
+  * Ask for help
+  * Share knowledge
+  * Learning > Blame
+  * Home for evening
+  * No toxic people
+  * Integrity
+* Led by technology
+  * Peer recognition > Manager recognition
+  * Value technical skill (to same degree as other skills like management etc.)
+  * Continuous learning
+  * Engage with technology community
+        
+* Efficient collaboration between software development and business
+
+TODO: add figure
+
+TODO: add from slides: focus on strategic stuff because your resources are limited
 
 
 
-## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) @mipsytipsy and tweets by @sarahmei
+## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by @mipsytipsy and tweets by @sarahmei
 * Drop the idea that only managers get career progression.
 * Drop the idea you have to choose a "lane" and grow old there.
 * The best individual contributors are the ones who have done time in management.
