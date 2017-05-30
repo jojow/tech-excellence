@@ -10,37 +10,37 @@ https://www.youtube.com/watch?v=Avs70dZ3Vlk
 He points out pretty clearly the key aspects of building and maintaining an organization that aims for technical excellence in the long run:
 
 ## [What does tech excellence look like?](https://www.youtube.com/watch?v=Avs70dZ3Vlk) by Martin Fowler
-* Improve IT performance
+* **Improve IT performance**
   * Reduce cycle time (i.e. frequent and fast deployments)
   * Focus on reducing mean time to repair (MTTR) instead of mean time between failure (MTBF)
-* Do continuous delivery
+* **Do continuous delivery**
   * Version control
   * Continuous integration
   * Test automation
   * Deployment automation
-* Carefully structure your teams
+* **Carefully structure your teams**
   * You cannot avoid silos, humans will always form silos
     * However, you can control the borders of these silos, so they support your business
   * A team must be small, business-oriented, and autonomous
   * Teams should be as long-term and stable as possible
-* Establish trustful environment
+* **Establish trustful environment**
   * Ask for help
   * Share knowledge
   * Learning > Blame
   * Home for evening
   * No toxic people
   * Integrity
-* Led by technology
+* **Led by technology**
   * Peer recognition > Manager recognition
   * Value technical skill (to same degree as other skills like management etc.)
   * Continuous learning
   * Engage with technology community
-        
-* Efficient collaboration between software development and business
+* **Focus on getting excellent in your strategic software (competitive advantage)**, not utility (payroll, HR)
+  * Technical excellence is important in general, but you must prioritize because your resources are limited
+
+### Efficient collaboration between software development and business
 
 TODO: add figure
-
-TODO: add from slides: focus on strategic stuff because your resources are limited
 
 
 
