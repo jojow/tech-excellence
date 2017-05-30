@@ -40,7 +40,7 @@ He points out pretty clearly the key aspects of building and maintaining an orga
 
 ### Efficient collaboration between software development and business
 
-TODO: add figure
+![Efficient collaboration between software development and business by Martin Fowler](business-tech-excellence-by-martinfowler.png)
 
 
 
