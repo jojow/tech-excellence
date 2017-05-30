@@ -1,5 +1,6 @@
 We often try to get better by following the latest tech trends such as microservices, serverless and the like.
-However, what really makes the key difference is:
+These are mostly technical efforts to improve.
+However, what often makes the key difference is:
 
 # Technical Excellence
 
@@ -42,7 +43,12 @@ He points out pretty clearly the key aspects of building and maintaining an orga
 
 ![Efficient collaboration between software development and business by Martin Fowler](business-tech-excellence-by-martinfowler.png)
 
+----
 
+More stuff on roles, management vs. technical and more:
+
+## [The architect elevator - visiting the upper floors](https://martinfowler.com/articles/architect-elevator.html) by Gregor Hohpe
+* TODO
 
 ## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by @mipsytipsy and tweets by @sarahmei
 * Drop the idea that only managers get career progression.
