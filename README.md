@@ -23,3 +23,7 @@ But there's much more:
 * Management is highly interruptive, and great engineering - where you're learning things - requires blocking out interruptions. You can't do these two opposite things at once. As a manager, it is your job to be available for your team, to be interrupted. It is your job to choose to hand off the challenging assignments, so that your engineers can get better at engineering.
 * A tech lead is a manager ... but their first priority is achieving the task at hand, not grooming and minding the humans who work on it. They still need the full manager toolset. ... management work, from the slightly shifted perspective of "Get Thing X Done" not "care for these people".
 * Tech is the easy part, herding humans is the harder part.
+* **Management is not a promotion, management is a change of profession.**
+* Becoming a manager is not a promotion - it's a lateral move onto a parallel track. You're back at junior level in many key skills.
+* ... it leads to so many people managing even though they hate managing and have no business managing, and also starves the senior engineers pool of the great mentors and elder wizards we need.
+* Do [management] as long as it makes you happy, and the people around you happy. Then stop. Go back to building things.
