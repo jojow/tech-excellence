@@ -51,7 +51,7 @@ More stuff on roles, management vs. technical and more:
 ## [The architect elevator - visiting the upper floors](https://martinfowler.com/articles/architect-elevator.html) by Gregor Hohpe
 * TODO
 
-## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by @mipsytipsy and tweets by @sarahmei
+## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors, tweets by Sarah Mei
 * Drop the idea that only managers get career progression.
 * Drop the idea you have to choose a "lane" and grow old there.
 * The best individual contributors are the ones who have done time in management.
