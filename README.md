@@ -64,7 +64,18 @@ The primary role of an architect is to ride the elevators between the penthouse 
 * To improve effectiveness in the IT engine room, you may have to change how the organization functions. That’s why architects must ride the elevator to the upper floors.
   * Minimize up-front decision making ... architecting an application to be horizontally scalable and automating server provisioning allow the sizing decision to be deferred until production or load-testing time
 * **Architecture is selling options.** Companies should invest more in architecture that allows them to defer decisions. Now this is the type of conversation an architect wants to have in the upper floors of his or her organization!
-* TODO
+* Especially decisions that require broad coordination are often made by management teams, far removed from the software delivery teams, based on financials, process compliance, or PowerPoint slides. An architect's job includes creating transparency on ramifications and to involve all levels in the architectural trade-off.
+* Feedback loops: A well-known architecture department **anti-pattern is the "ivory tower":** architects sit in the penthouse to define how developers should design and build software, without developing any software themselves. Such a setup has one cardinal flaw: it doesn't provide feedback to the architects as to the effectiveness nor the cost of their decisions.
+  * A great way for architects to obtain feedback is to be directly involved in, and accountable for, project delivery. Feedback cycles are most effective when they are short and immediate, making it appealing to empower development teams to make architecture decisions, within agreed-upon bounds of general principles or a published IT strategy.
+* One of the biggest throughput killers in distributed systems are synchronization points - one reason we favor asynchronous messaging. The organizational equivalent of a synchronization point is the meeting – it is also well-known to reduce throughput!
+* Many architects are afraid to touch organizational aspects because they are full of "people stuff" and politics. But the similarities in the behavior of complex systems equip architects well to engage at the upper floors and remove bottlenecks in organizational systems.
+* To compete in a digital world, they need to understand **economies of speed**, i.e. generating value by harvesting new market opportunities.
+  * Remove blockers at the right floor. You first have to explain that "quick" can mean "clean" before you can win management's heart for frequent deployments.
+  * Changing the penthouse's view on these items is a necessary precondition to starting a successful IT innovation.
+* **ArchOps: Build a vertical architecture team.** As it's highly unlikely that a single architect can cover all floors, it makes sense to build a "vertical" architecture team
+* Designing and influencing the organization depends on a thorough understanding of software delivery and technology innovation. It's the combination of technical acumen and organizational skill that makes modern architects valuable and IT transformation successful.
+* Keep riding the elevator up and back down - it's the only way to keep penthouse and engine room connected.
+* Many architects feel that the upper floors are not accessible to them. Would a CEO or vice president really want to talk to them? Amazingly, more often than not, they do. Many penthouse denizens feel disconnected from the reality in their organization and confused by the rapid technical advancements. They are therefore grateful if someone reaches out to them, speaks their language, but also has their feet firmly planted in the engine room.
 
 ## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors, tweets by Sarah Mei
 * Drop the idea that only managers get career progression.
