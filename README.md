@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=Avs70dZ3Vlk
 He points out pretty clearly the key aspects of building and maintaining an organization that aims for technical excellence in the long run:
 
 ## [What does tech excellence look like?](https://www.youtube.com/watch?v=Avs70dZ3Vlk) by Martin Fowler
+"Having technical excellence in your organisation has never been as crucial as it is today. Creating a technology strategy that allows you to not only deal with, but take advantage of the increasingly rapid pace of change separates the successful organisations from the obsolete ones.
+How do we ensure we attract and keep the right talent that can create and execute sophisticated strategies, in the face of extreme competition?
+Martin explores how culture, structures, talent, and technology choices help to build organisations that have technical excellence ingrained in them."
 * **Improve IT performance**
   * Reduce cycle time (i.e. frequent and fast deployments)
   * Focus on reducing mean time to repair (MTTR) instead of mean time between failure (MTBF)
@@ -49,6 +52,11 @@ He points out pretty clearly the key aspects of building and maintaining an orga
 More stuff on roles, management vs. technical and more:
 
 ## [The architect elevator - visiting the upper floors](https://martinfowler.com/articles/architect-elevator.html) by Gregor Hohpe
+"Many large organizations see their IT engine separated by many floors from the executive penthouse, which also separates business and digital strategy from the vital work of carrying it out.
+The primary role of an architect is to ride the elevators between the penthouse and engine room, stopping wherever is needed to support these digital efforts: automating software manufacturing, minimizing up-front decision making, and influencing the organization alongside technology evolution."
+* Traditionally, architects were considered to be those folks who make major design decisions on a project, draw architecture diagrams, and direct developers. Those tasks are in fact **better handled by the development team and modern tooling** than by a single person.
+* Many modern companies therefore **eschew software architect as a separate job title**, even though they highly value software architecture.
+* The good news is that **many new tasks await architects in large organizations.** And they are far more interesting and impactful than drawing class diagrams.
 * TODO
 
 ## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors, tweets by Sarah Mei
