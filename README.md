@@ -57,6 +57,13 @@ The primary role of an architect is to ride the elevators between the penthouse 
 * Traditionally, architects were considered to be those folks who make major design decisions on a project, draw architecture diagrams, and direct developers. Those tasks are in fact **better handled by the development team and modern tooling** than by a single person.
 * Many modern companies therefore **eschew software architect as a separate job title**, even though they highly value software architecture.
 * The good news is that **many new tasks await architects in large organizations.** And they are far more interesting and impactful than drawing class diagrams.
+* Countless layers of management separate the upper floors from the lower ones. ... telephone game effect: when a message passes through many stations, it not only takes time, but its meaning can also be completely changed.
+* As organizations are unlikely to collapse their management layers anytime soon ... architects need to move quickly between the floors to align business strategy with IT architecture and technical implementation. An elevator ride from the engine room up to the penthouse
+* Modern architects must therefore be well-versed in run-time architecture considerations, including deployment and configuration automation, scalability, monitoring, etc. They may **trade class diagrams for deployment diagrams!**
+* Modern architects should not just look at the design, but also the "manufacturing" [continuous delivery etc.] of software. Improving this aspect of the engine room has a critical impact on the penthouse: rapid and repeatable delivery shortens the time it takes for software to deliver business value. A great reason to visit the upper floors.
+* To improve effectiveness in the IT engine room, you may have to change how the organization functions. That’s why architects must ride the elevator to the upper floors.
+  * Minimize up-front decision making ... architecting an application to be horizontally scalable and automating server provisioning allow the sizing decision to be deferred until production or load-testing time
+* **Architecture is selling options.** Companies should invest more in architecture that allows them to defer decisions. Now this is the type of conversation an architect wants to have in the upper floors of his or her organization!
 * TODO
 
 ## [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors, tweets by Sarah Mei
